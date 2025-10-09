@@ -239,8 +239,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **Maria Baptista**
 - GitHub: [@mariajtik](https://github.com/mariajtik)
-- LinkedIn: [Maria Baptista](https://linkedin.com/in/maria-baptista)
-- Portfolio: [mariabaptista.dev](https://mariabaptista.dev)
 
 ---
 
@@ -257,7 +255,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 For questions or issues:
 - Open an [Issue](https://github.com/mariajtik/sanctions-screening/issues)
-- Contact: maria.baptista@example.com
+- Contact: [All here](https://github.com/Mariajtik/Mariajtik)
 
 ---
 
