@@ -1,3 +1,5 @@
+*Not Published Yet — (⁠ ⁠◜⁠‿⁠◝⁠ ⁠)⁠♡ Please wait a bit!*
+
 # 🛡️ Sanctions Screening System
 
 **Professional compliance tool for screening entities against OFAC, EU, and UN sanctions lists**
