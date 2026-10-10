@@ -1,4 +1,4 @@
-*Not Published Yet — (⁠ ⁠◜⁠‿⁠◝⁠ ⁠)⁠♡ Please wait a bit! Archived.*
+*Not Published Yet — (⁠ ⁠◜⁠‿⁠◝⁠ ⁠)⁠♡ Please wait a bit!*
 
 # 🛡️ Sanctions Screening System
 
